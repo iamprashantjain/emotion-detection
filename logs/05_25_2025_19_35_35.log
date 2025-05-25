@@ -1,0 +1,4 @@
+[2025-05-25 19:35:35,349] 16 root - INFO - reading data from feature_engineered folder
+[2025-05-25 19:35:35,380] 22 root - INFO - Split features and labels
+[2025-05-25 19:35:37,594] 28 root - INFO - Train XGBoost model
+[2025-05-25 19:35:37,672] 34 root - INFO - Model trained and saved to 'models/xgb_model.joblib'

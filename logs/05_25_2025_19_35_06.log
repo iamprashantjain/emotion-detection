@@ -1,0 +1,4 @@
+[2025-05-25 19:35:07,070] 14 root - INFO - reading data from processed folder
+[2025-05-25 19:35:07,113] 22 root - INFO - defining X_train, y_train, X_test, y_test
+[2025-05-25 19:35:08,346] 29 root - INFO - Applying BOW
+[2025-05-25 19:35:09,784] 43 root - INFO - Saved feature-engineered data to 'data/feature_engineered/'

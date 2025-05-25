@@ -1,0 +1,5 @@
+[2025-05-25 19:33:34,916] 14 root - INFO - reading data from url
+[2025-05-25 19:33:34,931] 17 root - INFO - dropping tweet_id
+[2025-05-25 19:33:34,971] 27 root - INFO - converting into binary classification problem
+[2025-05-25 19:33:34,981] 30 root - INFO - train test splitted
+[2025-05-25 19:33:35,521] 39 root - INFO - Saved train and test data to 'data/raw/'

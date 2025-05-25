@@ -1,0 +1,5 @@
+[2025-05-25 19:35:55,770] 19 root - INFO - Load test data
+[2025-05-25 19:35:56,151] 23 root - INFO - Load trained model
+[2025-05-25 19:35:56,323] 28 root - INFO - Make predictions
+[2025-05-25 19:35:56,481] 36 root - INFO - Evaluate metrics
+[2025-05-25 19:35:56,561] 50 root - INFO - Metrics saved to 'metrics/metrics.json'
